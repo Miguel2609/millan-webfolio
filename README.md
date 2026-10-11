@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# millan-webfolio
+Personal portfolio built with React.js and JavaScript. Showcasing my skills in web development and Low Code/No Code, professional achievements, and certifications. Includes access to my CV and LinkedIn profile.
+>>>>>>> 6a24cb49406b395e5dfacfff153464dc5f33124b
